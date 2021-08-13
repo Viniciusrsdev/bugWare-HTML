@@ -1,0 +1,58 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.padding-section {
+  padding: 7rem 0;
+}
+
+.title-desc-history {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-desc-history h1 {
+  font-weight: bold;
+  font-size: 60px;
+  margin-bottom: 3.5rem;
+}
+
+.title-desc-history p {
+  text-align: center;
+  margin-bottom: 7rem;
+  font-size: 23px;
+  color: grey;
+  max-width: 1100px;
+}
+
+.item-history {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-item-history {
+  font-size: 23px;
+  margin-bottom: 3rem;
+}
+
+.desc-item-history {
+  font-size: 20px;
+  text-align: center;
+  color: grey;
+}
+
+.item-history i {
+  color: #73fbd2;
+  font-size: 60px;
+  margin-bottom: 2rem;
+}
+
+.bold {
+  font-weight: bold;
+}
