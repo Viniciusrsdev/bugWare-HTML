@@ -151,3 +151,47 @@ img {
   display: flex;
   align-items: center;
 }
+
+.mej {
+  background-color: #f7f7f7;
+}
+
+.title-mej h1 {
+  font-weight: 800;
+  font-size: 55px;
+  margin-bottom: 3.5rem;
+}
+
+.subtitle-mej {
+  font-size: 20px;
+  color: grey;
+}
+
+.button-mej {
+  background-color: #3e194d;
+  width: 270px;
+  height: 73px;
+  border-radius: 5px;
+  margin-top: 3.5rem;
+}
+
+.button-mej a {
+  text-decoration: none;
+  color: #a7fbd3;
+  font-size: 21px;
+  font-weight: 500;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-mej i {
+  margin-left: 10px;
+}
+
+.image-mej {
+  margin-left: auto;
+  width: 92%;
+}
